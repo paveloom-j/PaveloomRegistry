@@ -8,3 +8,5 @@ implementations of educational tasks given at the
 St. Petersburg State University for astronomer students.
 Author and maintainer: Pavel Sobolev (@paveloom).
 """
+
+[packages]

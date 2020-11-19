@@ -9,3 +9,4 @@ Author and maintainer: Pavel Sobolev (@paveloom).
 """
 
 [packages]
+e9a1d922-fdc6-462c-a9a0-8cd4590f4ba7 = { name = "HillRegions", path = "H/HillRegions" }

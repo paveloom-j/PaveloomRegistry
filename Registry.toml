@@ -1,11 +1,10 @@
-name = "PaveloomSPBU"
+name = "PaveloomRegistry"
 uuid = "3a6d5fa8-25d7-11eb-1413-ebb8a7c3c138"
-repo = "https://github.com/paveloom-j/PaveloomSPBU"
+repo = "https://github.com/paveloom-j/PaveloomRegistry"
 
 description = """
-A Julia registry containing small packages that are
-implementations of educational tasks given at the
-St. Petersburg State University for astronomer students.
+A Julia registry containing small packages which
+are not worthy of inclusion in the General registry.
 Author and maintainer: Pavel Sobolev (@paveloom).
 """
 
